@@ -14,7 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
-
+- [Shhh Club](https://github.com/jalvarado91/ShhhClub) by The Loud Team
 
 
 Registering Your Team
